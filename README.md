@@ -7,3 +7,4 @@
 - Camera Module for Raspberry Pi Zero
   - https://shop.pimoroni.com/products/raspberry-pi-zero-camera-module
 ![print out](https://raw.githubusercontent.com/atsushik/raspberryPi_case/master/img/P1010214.JPG "printed")
+![print out](https://raw.githubusercontent.com/atsushik/raspberryPi_case/master/img/P1010228.JPG "printed")
